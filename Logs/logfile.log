@@ -1,0 +1,114 @@
+17/11/2023 11:36:34 AM: INFO: Test_Login: test_001: testcase_001 starting
+17/11/2023 02:08:21 PM: INFO: Test_Login: test_001: testcase_001 starting
+17/11/2023 02:08:21 PM: INFO: Test_Login: test_001: entering username
+17/11/2023 02:08:21 PM: INFO: Test_Login: test_001: entering password
+17/11/2023 02:08:29 PM: INFO: Test_Login: test_001: found keyword, test case is passeed
+17/11/2023 02:08:45 PM: INFO: Test_Login: test_002: test case 2 is passed
+17/11/2023 02:08:45 PM: INFO: Test_Login: test_002: test case 2 is passed
+22/11/2023 11:47:52 AM: INFO: Test_Login: test_001: testcase_001 starting
+22/11/2023 11:47:52 AM: INFO: Test_Login: test_001: entering username
+22/11/2023 11:47:52 AM: INFO: Test_Login: test_001: entering password
+22/11/2023 11:47:59 AM: INFO: Test_Login: test_001: found keyword, test case is passeed
+22/11/2023 11:48:15 AM: INFO: Test_Login: test_002: test case 2 is passed
+22/11/2023 11:48:15 AM: INFO: Test_Login: test_002: test case 2 is passed
+22/11/2023 11:48:57 AM: INFO: Test_Login: test_001: testcase_001 starting
+22/11/2023 11:48:57 AM: INFO: Test_Login: test_001: entering username
+22/11/2023 11:48:57 AM: INFO: Test_Login: test_001: entering password
+22/11/2023 11:49:04 AM: INFO: Test_Login: test_001: found keyword, test case is passeed
+22/11/2023 11:49:20 AM: INFO: Test_Login: test_002: test case 2 is passed
+22/11/2023 11:49:20 AM: INFO: Test_Login: test_002: test case 2 is passed
+22/11/2023 11:56:46 AM: INFO: Test_Login: test_001: testcase_001 starting
+22/11/2023 11:56:46 AM: INFO: Test_Login: test_001: entering username
+22/11/2023 11:56:47 AM: INFO: Test_Login: test_001: entering password
+22/11/2023 11:56:56 AM: INFO: Test_Login: test_001: found keyword, test case is passeed
+22/11/2023 11:57:11 AM: INFO: Test_Login: test_002: test case 2 is passed
+22/11/2023 11:57:11 AM: INFO: Test_Login: test_002: test case 2 is passed
+22/11/2023 11:57:18 AM: INFO: test_addnewCustomer: test_003: enter username
+22/11/2023 11:57:18 AM: INFO: test_addnewCustomer: test_003: enter username
+22/11/2023 11:57:18 AM: INFO: test_addnewCustomer: test_003: enter username
+22/11/2023 11:57:18 AM: INFO: test_addnewCustomer: test_003: enter password
+22/11/2023 11:57:18 AM: INFO: test_addnewCustomer: test_003: enter password
+22/11/2023 11:57:18 AM: INFO: test_addnewCustomer: test_003: enter password
+22/11/2023 11:57:28 AM: INFO: test_addnewCustomer: test_003: enter email
+22/11/2023 11:57:28 AM: INFO: test_addnewCustomer: test_003: enter email
+22/11/2023 11:57:28 AM: INFO: test_addnewCustomer: test_003: enter email
+22/11/2023 11:57:28 AM: INFO: test_addnewCustomer: test_003: enter password
+22/11/2023 11:57:28 AM: INFO: test_addnewCustomer: test_003: enter password
+22/11/2023 11:57:28 AM: INFO: test_addnewCustomer: test_003: enter password
+22/11/2023 11:57:28 AM: INFO: test_addnewCustomer: test_003: enter Firstname
+22/11/2023 11:57:28 AM: INFO: test_addnewCustomer: test_003: enter Firstname
+22/11/2023 11:57:28 AM: INFO: test_addnewCustomer: test_003: enter Firstname
+22/11/2023 11:57:28 AM: INFO: test_addnewCustomer: test_003: enter lastname
+22/11/2023 11:57:28 AM: INFO: test_addnewCustomer: test_003: enter lastname
+22/11/2023 11:57:28 AM: INFO: test_addnewCustomer: test_003: enter lastname
+22/11/2023 11:57:28 AM: INFO: test_addnewCustomer: test_003: select gender
+22/11/2023 11:57:28 AM: INFO: test_addnewCustomer: test_003: select gender
+22/11/2023 11:57:28 AM: INFO: test_addnewCustomer: test_003: select gender
+22/11/2023 11:57:28 AM: INFO: test_addnewCustomer: test_003: select a date
+22/11/2023 11:57:28 AM: INFO: test_addnewCustomer: test_003: select a date
+22/11/2023 11:57:28 AM: INFO: test_addnewCustomer: test_003: select a date
+22/11/2023 11:57:33 AM: INFO: test_addnewCustomer: test_003: date is selected
+22/11/2023 11:57:33 AM: INFO: test_addnewCustomer: test_003: date is selected
+22/11/2023 11:57:33 AM: INFO: test_addnewCustomer: test_003: date is selected
+22/11/2023 11:57:33 AM: INFO: test_addnewCustomer: test_003: enter company name
+22/11/2023 11:57:33 AM: INFO: test_addnewCustomer: test_003: enter company name
+22/11/2023 11:57:33 AM: INFO: test_addnewCustomer: test_003: enter company name
+22/11/2023 11:57:34 AM: INFO: test_addnewCustomer: test_003: new customer is created
+22/11/2023 11:57:34 AM: INFO: test_addnewCustomer: test_003: new customer is created
+22/11/2023 11:57:34 AM: INFO: test_addnewCustomer: test_003: new customer is created
+15/12/2023 01:31:09 PM: INFO: Test_Login: test_001: testcase_001 starting
+15/12/2023 01:31:09 PM: INFO: Test_Login: test_001: entering username
+15/12/2023 01:31:10 PM: INFO: Test_Login: test_001: entering password
+15/12/2023 01:31:16 PM: INFO: Test_Login: test_001: found keyword, test case is passeed
+15/12/2023 01:31:19 PM: WARNING: selenium_manager: run: The chromedriver version (119.0.6045.105) detected in PATH at C:\Users\ASUS\AppData\Local\Programs\Python\Python39\chromedriver.exe might not be compatible with the detected chrome version (120.0.6099.72); currently, chromedriver 120.0.6099.71 is recommended for chrome 120.*, so it is advised to delete the driver in PATH and retry
+15/12/2023 01:31:25 PM: WARNING: selenium_manager: run: The chromedriver version (119.0.6045.105) detected in PATH at C:\Users\ASUS\AppData\Local\Programs\Python\Python39\chromedriver.exe might not be compatible with the detected chrome version (120.0.6099.72); currently, chromedriver 120.0.6099.71 is recommended for chrome 120.*, so it is advised to delete the driver in PATH and retry
+15/12/2023 01:31:28 PM: INFO: test_addnewCustomer: test_003: enter username
+15/12/2023 01:31:28 PM: INFO: test_addnewCustomer: test_003: enter username
+15/12/2023 01:31:29 PM: INFO: test_addnewCustomer: test_003: enter password
+15/12/2023 01:31:29 PM: INFO: test_addnewCustomer: test_003: enter password
+15/12/2023 01:31:35 PM: INFO: test_addnewCustomer: test_003: enter email
+15/12/2023 01:31:35 PM: INFO: test_addnewCustomer: test_003: enter email
+15/12/2023 01:31:36 PM: INFO: test_addnewCustomer: test_003: enter password
+15/12/2023 01:31:36 PM: INFO: test_addnewCustomer: test_003: enter password
+15/12/2023 01:31:36 PM: INFO: test_addnewCustomer: test_003: enter Firstname
+15/12/2023 01:31:36 PM: INFO: test_addnewCustomer: test_003: enter Firstname
+15/12/2023 01:31:36 PM: INFO: test_addnewCustomer: test_003: enter lastname
+15/12/2023 01:31:36 PM: INFO: test_addnewCustomer: test_003: enter lastname
+15/12/2023 01:31:36 PM: INFO: test_addnewCustomer: test_003: select gender
+15/12/2023 01:31:36 PM: INFO: test_addnewCustomer: test_003: select gender
+15/12/2023 01:31:36 PM: INFO: test_addnewCustomer: test_003: select a date
+15/12/2023 01:31:36 PM: INFO: test_addnewCustomer: test_003: select a date
+15/12/2023 01:31:41 PM: INFO: test_addnewCustomer: test_003: date is selected
+15/12/2023 01:31:41 PM: INFO: test_addnewCustomer: test_003: date is selected
+15/12/2023 01:31:41 PM: INFO: test_addnewCustomer: test_003: enter company name
+15/12/2023 01:31:41 PM: INFO: test_addnewCustomer: test_003: enter company name
+15/12/2023 01:31:43 PM: INFO: test_addnewCustomer: test_003: new customer is created
+15/12/2023 01:31:43 PM: INFO: test_addnewCustomer: test_003: new customer is created
+15/12/2023 03:04:08 PM: INFO: Test_Login: test_001: testcase_001 starting
+15/12/2023 03:04:09 PM: INFO: Test_Login: test_001: entering username
+15/12/2023 03:04:09 PM: INFO: Test_Login: test_001: entering password
+15/12/2023 03:04:16 PM: INFO: Test_Login: test_001: found keyword, test case is passeed
+15/12/2023 03:04:19 PM: WARNING: selenium_manager: run: The chromedriver version (119.0.6045.105) detected in PATH at C:\Users\ASUS\AppData\Local\Programs\Python\Python39\chromedriver.exe might not be compatible with the detected chrome version (120.0.6099.72); currently, chromedriver 120.0.6099.71 is recommended for chrome 120.*, so it is advised to delete the driver in PATH and retry
+15/12/2023 03:04:34 PM: WARNING: selenium_manager: run: The chromedriver version (119.0.6045.105) detected in PATH at C:\Users\ASUS\AppData\Local\Programs\Python\Python39\chromedriver.exe might not be compatible with the detected chrome version (120.0.6099.72); currently, chromedriver 120.0.6099.71 is recommended for chrome 120.*, so it is advised to delete the driver in PATH and retry
+15/12/2023 03:04:38 PM: INFO: test_addnewCustomer: test_003: enter username
+15/12/2023 03:04:38 PM: INFO: test_addnewCustomer: test_003: enter username
+15/12/2023 03:04:38 PM: INFO: test_addnewCustomer: test_003: enter password
+15/12/2023 03:04:38 PM: INFO: test_addnewCustomer: test_003: enter password
+15/12/2023 03:04:45 PM: INFO: test_addnewCustomer: test_003: enter email
+15/12/2023 03:04:45 PM: INFO: test_addnewCustomer: test_003: enter email
+15/12/2023 03:04:46 PM: INFO: test_addnewCustomer: test_003: enter password
+15/12/2023 03:04:46 PM: INFO: test_addnewCustomer: test_003: enter password
+15/12/2023 03:04:46 PM: INFO: test_addnewCustomer: test_003: enter Firstname
+15/12/2023 03:04:46 PM: INFO: test_addnewCustomer: test_003: enter Firstname
+15/12/2023 03:04:46 PM: INFO: test_addnewCustomer: test_003: enter lastname
+15/12/2023 03:04:46 PM: INFO: test_addnewCustomer: test_003: enter lastname
+15/12/2023 03:04:47 PM: INFO: test_addnewCustomer: test_003: select gender
+15/12/2023 03:04:47 PM: INFO: test_addnewCustomer: test_003: select gender
+15/12/2023 03:04:47 PM: INFO: test_addnewCustomer: test_003: select a date
+15/12/2023 03:04:47 PM: INFO: test_addnewCustomer: test_003: select a date
+15/12/2023 03:04:51 PM: INFO: test_addnewCustomer: test_003: date is selected
+15/12/2023 03:04:51 PM: INFO: test_addnewCustomer: test_003: date is selected
+15/12/2023 03:04:51 PM: INFO: test_addnewCustomer: test_003: enter company name
+15/12/2023 03:04:51 PM: INFO: test_addnewCustomer: test_003: enter company name
+15/12/2023 03:04:53 PM: INFO: test_addnewCustomer: test_003: new customer is created
+15/12/2023 03:04:53 PM: INFO: test_addnewCustomer: test_003: new customer is created
