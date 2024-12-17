@@ -21,6 +21,7 @@ class TestLogin(LogGen):
         lg.input_password("admin")
         log.info("entering password")
         lg.button_login()
+        print("Hello")
 
         time.sleep(4)
         if "Dashboard" in db.welcome_msg():
